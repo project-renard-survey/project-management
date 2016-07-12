@@ -4,6 +4,12 @@ This is our centralized repository for high level, project wide issues.
 We use **ZenHub** to organise our workflows. 
 In order to see our full Kanban board and how the EPICs and tasks are connected, [you have to install the plugin here](https://www.zenhub.com/).
 
+But even without Zenhub installed you can check out the tasks here:
+  - [High-level tasks/EPICs](https://github.com/WorldBrain/project-management/issues) (i.e Features)
+  - [Front-end related tasks](https://github.com/WorldBrain/webmarks/issues) (Webmarks)
+  - [Back-end related ](https://github.com/WorldBrain/cortex/issues) (Cortex)
+
+
 ### Terminology of Repos
 
 1. project-management
