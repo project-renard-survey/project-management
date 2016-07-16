@@ -52,7 +52,7 @@ In order to provide not only modular software, but also a modular and thorough d
         - Important Information (like expected errors, workarounds, things to install before)
         - Current State of Development
         
-     - **IMPORTANT:** This is only a first version of the readme, with the purpose to put some brain juice into how to do it, before actually executing. It is a work-in-progress document that is finished, when the code is finished. 
+    - **IMPORTANT:** This is only a first version of the readme, with the purpose to put some brain juice into how to do it, before actually executing. It is a work-in-progress document that is finished, when the code is finished.
         
 3. Make Pull Request with README file **only**.
    - Make a pull request in the READMES folder in the respective repo
