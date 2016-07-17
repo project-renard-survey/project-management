@@ -30,6 +30,10 @@ But even without Zenhub installed you can check out the tasks here:
 <br>
 ## Documentation
 
+### Meeting Documentation
+
+Check out the agenda, video recordings and notes of our team meetings **on- and offline** [here](https://github.com/WorldBrain/project-management/blob/master/meeting_documentation.md).
+
 ### Code Documentation
 
 Coming soon. We will use readthedocs.org for that. 
