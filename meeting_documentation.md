@@ -1,7 +1,7 @@
 ## F2F Meetings of the WorldBrain Team
 
 Here you can check out the dates, the location and the documentation of our Face2Face Meetings
-
+ - [25.07.2016](https://public.etherpad-mozilla.org/p/WorldBrain-Hacknight-25-07-16) @OkLab Hacknight @Wikimedia 7pm
  - [18.07.2016](https://public.etherpad-mozilla.org/p/WorldBrain-Hacknight-18-07-16) @OkLab Hacknight @Wikimedia 7pm
  - [11.07.2016](https://public.etherpad-mozilla.org/p/WorldBrain-Hacknight-11-07-16) @OkLab Hacknight @Wikimedia 7pm
  - 04.07.2016 @ OkLab Hacknight @Wikimedia 7pm
